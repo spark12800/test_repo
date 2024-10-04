@@ -1,2 +1,5 @@
 Y = 3
 print(Y)
+
+X = 4
+print(X+Y)
